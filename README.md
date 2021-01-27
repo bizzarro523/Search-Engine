@@ -1,0 +1,2 @@
+# Search-Engine
+Simulates a search engine over a corpus of documents. Filters out common words stored in a StopList hash structure. Returns a .txt file that contains every word and location of the word from every document in the corpus. Additionally allows the user to type a word that they would like to query, and a query .txt file returns every document that word is found in as well as a snippet surrounding the word.
